@@ -1,6 +1,9 @@
 # banco-de-dados
 Bancos de dados ou bases de dados são conjuntos de arquivos relacionados entre si, podendo conter registros sobre pessoas, lugares ou informações em geral.
 
+SQL as Structured Query Language
+
+https://www.sqltutorial.org/
 
 ##### **Modelo de Dados**
 > Modelos de alto nível ou modelos de dados conceituais: fornecem conceitos que são próximos à forma como os usuários percebem os dados. Ex.: **Modelo EntidadeRelacionamento**.
