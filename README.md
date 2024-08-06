@@ -36,12 +36,12 @@
 >> Aula 03 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
 
 <!-- SEMANA 02 -->
->&#128310; **Semana 02**: Programação orientada a objetos e modularização
->> Aula 04 - [Visão geral sobre banco de dados](./Docs/Aula01..md)<br>
+>&#128310; **Semana 02**: Modelo relacional e mapeamento do modelo entidade-relacionamento para o modelo relacional
+>> Aula 04 - [Modelo Relacional - caracterização, formalização e restrições](./Docs/Aula04..md)<br>
 >
->> Aula 05 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
+>> Aula 05 - [Mapeamento MER → Relacional - Parte I: entidades, atributos, chaves](./Docs/Aula05..md)<br>
 >
->> Aula 06 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
+>> Aula 06 - [Mapeamento MER → Relacional - Parte II: relacionamentos, cardinalidades](./Docs/Aula06..md)<br>
 
 <!-- SEMANA 03 -->
 >&#128311; **Semana 03**: Recursão
