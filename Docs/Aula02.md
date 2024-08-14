@@ -75,7 +75,7 @@ propriedades.
 
 </details>
 
-
+```
 Esta é uma linha de código em Javascript.`<span><span>`
 
 
@@ -87,4 +87,4 @@ Esta é uma linha de código em PHP.
 Esta é uma linha de código em HTML.
 ~~~
 
-1. 
+1.
