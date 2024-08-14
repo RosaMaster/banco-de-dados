@@ -44,12 +44,12 @@
 >> Aula 06 - [Mapeamento MER → Relacional - Parte II: relacionamentos, cardinalidades](./Docs/Aula06..md)<br>
 
 <!-- SEMANA 03 -->
->&#128311; **Semana 03**: Recursão
->> Aula 07 - [Visão geral sobre banco de dados](./Docs/Aula01..md)<br>
+>&#128311; **Semana 03**: Sistemas de Gerenciamento de Banco de Dados de Mercado e Normalização
+>> Aula 07 - [Sistemas Gerenciadores de Bancos de Dados no Mercado](./Docs/Aula07.md)<br>
 >
->> Aula 08 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
+>> Aula 08 - [Normalização – Parte 1](./Docs/Aula08.md)<br>
 >
->> Aula 03 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
+>> Aula 03 - [Normalização - Parte 2](./Docs/Aula09.md)<br>
 
 <!-- SEMANA 04 -->
 >&#128310; **Semana 04**: Pilhas, filas e árvores
@@ -92,10 +92,10 @@
 >> Aula 03 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
 
 ---
-<!-- TOOLS & SKILLS -->
+<!-- TOOLS & SKILLS 
 ### **TOOLS & SKILLS**:
 
-
+-->
 
 ---
 ### **RosaMaster**
