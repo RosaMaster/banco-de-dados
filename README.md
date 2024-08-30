@@ -1,19 +1,20 @@
 <!-- HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=258f76&height=140&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0153E&height=140&section=header" alt="header"/>
 
 
 <!-- TITLE -->
 <h1 align="center" alt="title">
-  <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
-    <b> banco-de-dados </b>
-  <img src="https://media0.giphy.com/media/crxNUSArkbdMwE7B4r/giphy.gif?cid=ecf05e47fs0o2g9jb9cjad9iogriaoh8r8n11wc43887475k&rid=giphy.gif&ct=g" alt="Waving hand animated gif" height="45" width="45" />
+
+    <head>    B  A  N  C  O    D  E    D  A  D  O  S    </head>
+
 </h1>
 
+---
 
 <!-- DESCRIBLE -->
-> Bancos de dados ou bases de dados são conjuntos de arquivos relacionados entre si, podendo conter registros sobre pessoas, lugares ou informações em geral.
+> **Banco de Dados** ou bases de dados são conjuntos de arquivos relacionados entre si, podendo conter registros sobre pessoas, lugares ou informações em geral.
 > 
-> SQL as Structured Query Language
+> SQL é igual a **Structured Query Language**
 >
 > https://www.sqltutorial.org/
 >
@@ -49,47 +50,38 @@
 >
 >> Aula 08 - [Normalização – Parte 1](./Docs/Aula08.md)<br>
 >
->> Aula 03 - [Normalização - Parte 2](./Docs/Aula09.md)<br>
+>> Aula 09 - [Normalização - Parte 2](./Docs/Aula09.md)<br>
 
 <!-- SEMANA 04 -->
->&#128310; **Semana 04**: Pilhas, filas e árvores
->> Aula 01 - [Visão geral sobre banco de dados](./Docs/Aula01..md)<br>
+>&#128310; **Semana 04**: Ferramenta Case, Introdução a Linguagem SQL e Indexação
+>> Aula 10 - [Ferramenta Case MySQLWorkbench](./Docs/Aula10..md)<br>
 >
->> Aula 02 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
+>> Aula 11 - [Linguagem SQL DDL - Linguagem de Definição de Dados: Comandos Básicos](./Docs/Aula11..md)<br>
 >
->> Aula 03 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
+>> Aula 12 - [Indexação em Banco de Dados](./Docs/Aula12..md)<br>
 
 <!-- SEMANA 05 -->
->&#128311; **Semana 05**: Ordenação e busca
->> Aula 01 - [Visão geral sobre banco de dados](./Docs/Aula01..md)<br>
+>&#128311; **Semana 05**: Consultas usando SQL
+>> Aula 13 - [Linguagem SQL - Introdução à consulta - SELECT](./Docs/Aula13..md)<br>
 >
->> Aula 02 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
->
->> Aula 03 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
+>> Aula 14 - [Linguagem SQL - Consultas com funções - SELECT](./Docs/Aula14..md)<br>
 
 <!-- SEMANA 06 -->
 >&#128310; **Semana 06**: Processamento de elementos da Web
->> Aula 01 - [Visão geral sobre banco de dados](./Docs/Aula01..md)<br>
+>> Aula 15 - [Visão geral sobre banco de dados](./Docs/Aula01..md)<br>
 >
->> Aula 02 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
+>> Aula 16 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
 >
->> Aula 03 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
+>> Aula 17 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
 
 <!-- SEMANA 07 -->
 >&#128311; **Semana 07**: GUIs
->> Aula 01 - [Visão geral sobre banco de dados](./Docs/Aula01..md)<br>
+>> Aula 18 - [Visão geral sobre banco de dados](./Docs/Aula01..md)<br>
 >
->> Aula 02 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
+>> Aula 19 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
 >
->> Aula 03 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
+>> Aula 20 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
 
-<!-- SEMANA 08 -->
->&#128310; **Semana 08**: Depuração de programas
->> Aula 01 - [Visão geral sobre banco de dados](./Docs/Aula01..md)<br>
->
->> Aula 02 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
->
->> Aula 03 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
 
 ---
 <!-- TOOLS & SKILLS 
