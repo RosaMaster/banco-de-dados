@@ -3,13 +3,12 @@
 
 
 <!-- TITLE -->
-<h1 align="center" alt="title">
+<h2 align="center" alt="title">
 
     <head>    B  A  N  C  O    D  E    D  A  D  O  S    </head>
 
-</h1>
+</h2>
 
----
 
 <!-- DESCRIBLE -->
 > **Banco de Dados** ou bases de dados são conjuntos de arquivos relacionados entre si, podendo conter registros sobre pessoas, lugares ou informações em geral.
@@ -67,21 +66,18 @@
 >> Aula 14 - [Linguagem SQL - Consultas com funções - SELECT](./Docs/Aula14..md)<br>
 
 <!-- SEMANA 06 -->
->&#128310; **Semana 06**: Processamento de elementos da Web
->> Aula 15 - [Visão geral sobre banco de dados](./Docs/Aula01..md)<br>
+>&#128310; **Semana 06**: Consultas combinadas de tabelas usando SQL e conceitos de View e Data Lake
+>> Aula 15 - [Linguagem SQL - Consultas Combinadas - SELECT - JOIN](./Docs/Aula01..md)<br>
 >
->> Aula 16 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
+>> Aula 16 - [SELECT - Exemplos de Consultas Variadas](./Docs/Aula02..md)<br>
 >
->> Aula 17 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
+>> Aula 17 - [Introdução a Views e conceitos básicos sobre Data Warehouse e Data Lake](./Docs/Aula03..md)<br>
 
 <!-- SEMANA 07 -->
->&#128311; **Semana 07**: GUIs
->> Aula 18 - [Visão geral sobre banco de dados](./Docs/Aula01..md)<br>
+>&#128311; **Semana 07**: Transações e Introdução a Bancos de Dados não relacionais
+>> Aula 18 - [Transações](./Docs/Aula01..md)<br>
 >
->> Aula 19 - [Modelo Entidade-Relacionamento (MER) - entidades, atributos e chaves](./Docs/Aula02..md)<br>
->
->> Aula 20 - [Modelo Entidade-Relacionamento (MER) - relacionamentos e cardinalidade](./Docs/Aula03..md)<br>
-
+>> Aula 19 - [Introdução a Bancos de Dados Não Relacionais - NoSQL](./Docs/Aula02..md)<br>
 
 ---
 <!-- TOOLS & SKILLS 
